@@ -1,2 +1,4 @@
-import numpy as np
-import pandas as pd
+def greet_morning():
+  print('Good Morning')
+
+greet_morning()
